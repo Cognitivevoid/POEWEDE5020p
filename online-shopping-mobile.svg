@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title description">
+  <title id="title">Online shopping delivery</title>
+  <desc id="description">A compact illustration of a shopping box and delivery van.</desc>
+  <rect width="640" height="360" rx="38" fill="#dff1ff"/>
+  <circle cx="84" cy="74" r="44" fill="#b8e1ff"/><circle cx="563" cy="288" r="60" fill="#c6e9ff"/>
+  <path d="M115 125h162l37 48v114H115z" fill="#0066cc"/>
+  <path d="M115 125l81-47 81 47-81 49z" fill="#3189db"/>
+  <path d="M196 174v113" stroke="#fff" stroke-width="11"/>
+  <rect x="352" y="186" width="178" height="82" rx="17" fill="#0066cc"/>
+  <path d="M372 186h91l43 44H372z" fill="#3189db"/>
+  <circle cx="405" cy="280" r="20" fill="#172a3d"/><circle cx="488" cy="280" r="20" fill="#172a3d"/>
+  <circle cx="405" cy="280" r="7" fill="#fff"/><circle cx="488" cy="280" r="7" fill="#fff"/>
+  <path d="M295 121c38-33 72-39 112-31" fill="none" stroke="#0066cc" stroke-width="10" stroke-linecap="round" stroke-dasharray="6 18"/>
+</svg>
